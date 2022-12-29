@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fledtrain
-- 👀 I’m interested in learning Frontend Development/Web Development and learning new languages.
-- 🌱 I’m currently learning HTML, CSS, JS, and C.
+- 👀 I’m eager to dive into Frontend Development/Web Development and expand my skill set by learning new programming languages.
+- 🌱 I’m currently learning HTML, CSS and JS.
 
 
 
