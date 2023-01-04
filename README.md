@@ -2,6 +2,8 @@
 - 👀 I’m eager to dive into Frontend Development/Web Development and expand my skill set by learning new programming languages.
 - 🌱 I’m currently learning HTML, CSS and JS.
 
+## 🛠 Skills
+Javascript, Python, Java, HTML, CSS, C, C++
 
 
 <!---
