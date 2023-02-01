@@ -4,7 +4,7 @@
 - 🧠 For School I am currently learning Database, Computer Security, Intro to Robotics & Computer Science Theory
 
 ## 🛠 Skills
-JavaScript, Python, Java, HTML, CSS, C, C++, SQL
+JavaScript, HTML, CSS, Python, Java, C, C++, SQL
 
 
 <!---
