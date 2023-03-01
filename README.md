@@ -1,5 +1,7 @@
 <br>
 
+<br>
+
 <p align="center">
     <a href="https://github.com/Fledtrain"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FG6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Joey+Whitehead" alt="Typing SVG" /></a>
 </p>
