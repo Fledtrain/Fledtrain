@@ -26,7 +26,7 @@
 
 - 👀 I’m eager to dive into Frontend Development/Web Development and expand my skill set by learning new programming languages
 
-- 🧠 For School I am currently learning **Database, Computer Security, Intro to Robotics & Computer Science Theory**
+- 🧠 For School I am currently learning **Database, Computer Security, Intro to Robotics, Software Engineering 2 & Computer Science Theory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
