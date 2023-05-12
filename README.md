@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">A passionate JavaScript developer</h3>
 
-- 🔭 I’m currently working on [Project 3000](https://github.com/Fledtrain/ShuttleSystem)
+- 🔭 I’m currently working on a [Realtor Clone](https://github.com/Fledtrain) created in React. It is in progress... ETA 5/30/23
 
 - 🌱 I’m currently learning **Nodejs, Express, MongoDB and More JavaScript**
 
