@@ -8,7 +8,7 @@
     <a href="https://github.com/Fledtrain"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FG6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Joey+Whitehead" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/Fledtrain"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Aspiring+JavaScript+developer;Learning+NodeJS+and+MongoDB" alt="Typing SVG" /></a>
+    <a href="https://github.com/Fledtrain"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=JavaScript+developer;Learning+NodeJS+and+MongoDB" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">A passionate JavaScript developer</h3>
 
