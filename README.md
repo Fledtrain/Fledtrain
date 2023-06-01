@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">A passionate JavaScript developer</h3>
 
-- 🔭 I’m currently working on a [Realtor Clone](https://github.com/Fledtrain/ReactRealtorClone) created in React.
+- 🔭 **I finished working on ➡️ [Realtor Clone](https://github.com/Fledtrain/ReactRealtorClone) ⬅️ Check it out, created using React, TailwindCSS and Firebase.**
 
 - 🌱 I’m currently learning **Nodejs, Express, MongoDB and More JavaScript**
 
