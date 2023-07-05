@@ -14,17 +14,11 @@
 
 - 🔭 **I finished working on ➡️ [Realtor Clone](https://github.com/Fledtrain/ReactRealtorClone) ⬅️ Check it out, created using React, TailwindCSS and Firebase.**
 
-- 🌱 I’m currently learning **Nodejs, Express, MongoDB and More JavaScript**
+- 🌱 I’m currently learning **React, MongoDB, Python and TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://fledtrain.github.io/E-Portfolio/](https://fledtrain.github.io/E-Portfolio/)
 
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **Fledtrain@gmail.com**
-
-- ⚡ Fun fact **I love Star Wars, Pokemon and Harry Potter**
-
-- 👀 I’m eager to dive into Frontend Development/Web Development and expand my skill set by learning new programming languages
+- 👀 I’m eager to dive into Frontend Web Development and expand my skill set by learning new programming languages
 
 - 🧠 For School I am currently learning **Fundamentals of Programming Languages and Operating Systems**
 
