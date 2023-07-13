@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/Fledtrain"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=JavaScript+developer;Learning+NodeJS+and+MongoDB;Learning+TypeScript+and+ReactJS" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">A passionate JavaScript developer</h3>
+<h3 align="center">A JavaScript developer</h3>
 
 - 🔭 **I finished working on ➡️ [Realtor Clone](https://github.com/Fledtrain/ReactRealtorClone) ⬅️ Check it out, created using React, TailwindCSS and Firebase.**
 
