@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React, MongoDB, Python and TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://fledtrain.github.io/E-Portfolio/](https://fledtrain.github.io/E-Portfolio/)
+- 👨‍💻 All of my projects are available at [E-Portfolio](https://fledtraineportfolio.netlify.app/)
 
 - 👀 I’m eager to dive into Frontend Web Development and expand my skill set by learning new programming languages
 
