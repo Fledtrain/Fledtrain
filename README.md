@@ -20,7 +20,7 @@
 
 - 👀 I’m eager to dive into Frontend Web Development and expand my skill set by learning new programming languages
 
-- 🧠 Graduated Montclair in January 2024
+- 🧠 Graduated Montclair in January 2024 🥳💃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
